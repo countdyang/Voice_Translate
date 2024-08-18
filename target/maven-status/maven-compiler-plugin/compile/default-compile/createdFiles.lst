@@ -1,0 +1,8 @@
+com\topcoder\model\Sentences.class
+com\topcoder\controller\TranslationController.class
+com\topcoder\model\LdResult.class
+com\topcoder\service\TranslationService.class
+com\topcoder\TopcoderLanguageTranslatorApplication.class
+com\topcoder\model\Spell.class
+com\topcoder\model\UserInput.class
+com\topcoder\model\TranslatedOutput.class
